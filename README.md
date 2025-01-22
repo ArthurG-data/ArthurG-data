@@ -1,11 +1,16 @@
 # :earth_asia: :mag: Arthur Guillaume
 
-** Machine Learning Enthousiast
-I'm an Data Scientist developper exploring the world, one dataset at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+**:bar_chart: Machine Learning Enthousiast**
+
+I'm a Data Scientist and Developer exploring the world, one dataset at a time. All my coding projects are built from the ground up — from planning and designing to solving real-life problems with code.
+
+## :books: Expertise
+
+With hands-on experience conducting and analyzing experiments, combined with a knack for diving into datasets and crafting compelling visualizations, I bring a unique mix of problem-solving skills and technical know-how. I’m especially passionate about building algorithms to tackle challenges in genomics, turning complex problems into elegant solutions.
 
 ---
 
-## Languages and Tools
+## :computer: Languages and Tools
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
