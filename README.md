@@ -1,7 +1,8 @@
 # :earth_asia: :mag: Arthur Guillaume
 
-** Machine Learning Enthousiast
-I'm an Data Scientist developper exploring the world, one dataset at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+**Machine Learning Enthousiast**
+
+I'm a Data Scientist and Developer exploring the world, one dataset at a time. All my coding projects are built from the ground up — from planning and designing to solving real-life problems with code.
 
 ---
 
