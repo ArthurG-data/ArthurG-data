@@ -1,6 +1,6 @@
 # :earth_asia: :mag: Arthur Guillaume
 
-**:bar_chart: Machine Learning Enthousiast**
+**:bar_chart: Machine Learning Enthusiast**
 
 I'm a Data Scientist and Developer exploring the world, one dataset at a time. All my coding projects are built from the ground up — from planning and designing to solving real-life problems with code.
 
